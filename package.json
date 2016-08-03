@@ -1,0 +1,10 @@
+{
+  "name": "xdk-components-model",
+  "version": "0.0.1",
+  "description": "XDK Components definition and lifecycle",
+  "author": "Arzhan Kinzhalin",
+  "dependencies": {
+    "q": "^1.4.1",
+    "requirejs": "^2.2.0"
+  }
+}
